@@ -7,6 +7,8 @@
 
 #include "YahooAPIWrapper.h"
 
+// http://stackoverflow.com/questions/8829773/strange-c-linking-issue-unresolved-external-symbols-but-header-file-is-linke
+
 int main()
 {
 	int temp;
